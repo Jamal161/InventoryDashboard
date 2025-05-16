@@ -3,7 +3,7 @@ Image folder image include , SQL script file include
 ## Prerequisites
 
 * .NET 8 SDK
-* Node.js and npm
+* React.js and npm
 * SQL Server 
 * Visual Studio 
 
