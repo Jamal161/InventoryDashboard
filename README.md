@@ -67,3 +67,6 @@ Image folder image include , SQL script file include
 
 * Update the `appsettings.json` file with your database connection string.
 
+
+Google drive link build file here : https://drive.google.com/file/d/1DSj2t4DLjBs87w-06Y2Zc_n581Ia5NMk/view?usp=sharing
+
