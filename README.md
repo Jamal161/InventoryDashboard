@@ -1,5 +1,5 @@
 # Product Management Dashboard
-
+Image folder image include , SQL script file include 
 ## Prerequisites
 
 * .NET 8 SDK
