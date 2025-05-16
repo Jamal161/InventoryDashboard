@@ -15,7 +15,7 @@ Image folder image include , SQL script file include
 
    ```bash
    git clone <repository-url>
-   cd ProductManagementDashboard
+   cd InventoryDashboard --- backend file 
    ```
 
 2. Install dependencies:
@@ -41,7 +41,7 @@ Image folder image include , SQL script file include
 1. Navigate to the frontend directory:
 
    ```bash
-   cd inventory-dashboard
+   cd inventory-dashboard --- frontend file 
    ```
 
 2. Install dependencies:
