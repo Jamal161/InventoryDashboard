@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\Assignment Task\\InventoryDashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7373448F-9540-47C0-86F6-14A3FA03063B}|InventoryDashboard.csproj|c:\\users\\user\\onedrive\\desktop\\assignment task\\inventorydashboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7373448F-9540-47C0-86F6-14A3FA03063B}|InventoryDashboard.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373448F-9540-47C0-86F6-14A3FA03063B}|InventoryDashboard.csproj|c:\\users\\user\\onedrive\\desktop\\assignment task\\inventorydashboard\\model\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7373448F-9540-47C0-86F6-14A3FA03063B}|InventoryDashboard.csproj|solutionrelative:model\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373448F-9540-47C0-86F6-14A3FA03063B}|InventoryDashboard.csproj|c:\\users\\user\\onedrive\\desktop\\assignment task\\inventorydashboard\\dbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7373448F-9540-47C0-86F6-14A3FA03063B}|InventoryDashboard.csproj|solutionrelative:dbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373448F-9540-47C0-86F6-14A3FA03063B}|InventoryDashboard.csproj|c:\\users\\user\\onedrive\\desktop\\assignment task\\inventorydashboard\\controller\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7373448F-9540-47C0-86F6-14A3FA03063B}|InventoryDashboard.csproj|solutionrelative:controller\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373448F-9540-47C0-86F6-14A3FA03063B}|InventoryDashboard.csproj|c:\\users\\user\\onedrive\\desktop\\assignment task\\inventorydashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7373448F-9540-47C0-86F6-14A3FA03063B}|InventoryDashboard.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Assignment Task\\InventoryDashboard\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Assignment Task\\InventoryDashboard\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:52:21.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Assignment Task\\InventoryDashboard\\Controller\\APIController.cs",
+              "RelativeDocumentMoniker": "Controller\\APIController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Assignment Task\\InventoryDashboard\\Controller\\APIController.cs",
+              "RelativeToolTip": "Controller\\APIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:48:02.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Assignment Task\\InventoryDashboard\\DbContext\\DbContext.cs",
+              "RelativeDocumentMoniker": "DbContext\\DbContext.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Assignment Task\\InventoryDashboard\\DbContext\\DbContext.cs",
+              "RelativeToolTip": "DbContext\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:46:04.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Assignment Task\\InventoryDashboard\\Model\\Model.cs",
+              "RelativeDocumentMoniker": "Model\\Model.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Assignment Task\\InventoryDashboard\\Model\\Model.cs",
+              "RelativeToolTip": "Model\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:43:56.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Assignment Task\\InventoryDashboard\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Assignment Task\\InventoryDashboard\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T16:17:30.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
